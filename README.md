@@ -5,6 +5,6 @@ You can visit the website [here](https://womars.co.uk/)
 
 ## Home page
 
-<img src="pictures/homepage.png"
+<img src="homepage.png"
      alt="Desktop homepage"
      style="float: left; margin-right: 10px;" />
